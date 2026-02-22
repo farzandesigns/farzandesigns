@@ -3,8 +3,8 @@
 <!--
 **farzandesigns/farzandesigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+I am Farzan, a design engineer based in Pakistan.
+I design almost every wild concept I can think about.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

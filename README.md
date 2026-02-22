@@ -28,7 +28,7 @@ My Tech Bubble includes
 </a>
 </p>
 
-A Bit A bout Me
+A Bit about Me
 -----------------
 * ☕I love tea 
 * ♟Never lost a chess match to m younger brother
